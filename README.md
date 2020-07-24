@@ -1,20 +1,23 @@
 ## Hello there! 👋
-
+**Do check out my first javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) !**
 
 
 
 🌱 I’m currently learning: 
-- Languages: Javascript, React, Lua
-- Game development 
-  - GD50 from [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
-- Deep Learning from [Coursera]()
+- **Game development** 
+  - **GD50 from [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
+- Languages: **Javascript, React, Lua**
+<!--- Machine Learning from [Coursera]() -->
 
 💬 Ask me about **Python, ROS, OpenCV**
 
+### Just some Github stats
 [![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20)](https://github.com/mtc-20/github-readme-stats)
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mamen-thomas-chembakasseril/"><img src="https://img.shields.io/badge/-Mamen-informational?style=for-the-badge&logo=linkedin" height=25></a>
+<a href="https://github.com/mtc-20"><img src="https://img.shields.io/badge/%20-mtc--20-black?style=for-the-badge&logo=github" height=25></a>
 </p>
 
 <!--
