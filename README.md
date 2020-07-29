@@ -1,6 +1,8 @@
 ## Hello there! 👋
 **Do check out my first javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) !**
-<a href="https://mtc-20.github.io/Tetris_js/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FTetris_js"></a>
+
+
+<a href="https://mtc-20.github.io/Tetris_js/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FTetris_js" height=224></a>
 
 
 
@@ -12,7 +14,11 @@
 
 <!--💬 Ask me about **Python, ROS, OpenCV**-->
 
-### Just some Github stats
+<!-- 👯 I’m looking to collaborate on
+- Augmented Reality projects
+-  -->
+
+## Just some Github stats
 [![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20)](https://github.com/mtc-20/github-readme-stats)
 
 
