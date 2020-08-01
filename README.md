@@ -1,5 +1,5 @@
 ## Hello there! 👋
-**Since your're already here, why don't you check out my first javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) !**
+**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) !**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
 
