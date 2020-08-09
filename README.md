@@ -1,9 +1,9 @@
 ## Hello there! 👋
-**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) !**
+**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) or how about some easy [Trivia](https://mtc-20.github.io/Quiz_App/) !**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
-
-**Any tips and suggestions are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
+<a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FQuiz_App" height=180></a>
+**Any tips and suggestions for Tetris are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
 
 
 🌱 I’m currently learning: 
