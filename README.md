@@ -11,8 +11,10 @@
 🌱 I’m currently learning: 
 - **Game development** <details>
   - **GD50 from [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
-- Languages: **Javascript, React, Lua**
-<!--- Machine Learning from [Coursera]() -->
+- **Deep Learning** <details>
+  - **Neural Networks from [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)**
+- Languages: **Javascript, C++, React, Lua**
+
 
 <!--💬 Ask me about **Python, ROS, OpenCV**-->
 
