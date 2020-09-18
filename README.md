@@ -1,4 +1,6 @@
 ## Hello there! 👋
+
+
 **Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) or how about some easy [Trivia](https://mtc-20.github.io/Quiz_App/) !**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
@@ -8,11 +10,16 @@
 **Any tips and suggestions for Tetris are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
 
 
+Not really doing much these, days to be honest...
+
 🌱 I’m currently learning: 
 - **Game development** <details>
-  - **GD50 from [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
+  - **GD50 on [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
+  - **Game Development for Modern Platforms on [Coursera](https://www.coursera.org/learn/gamedev-platforms/home/welcome)**
 - **Deep Learning** <details>
-  - **Neural Networks from [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)**
+  - **Convolutional Neural Networks on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)**
+  - ~~**Neural Networks from [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)**~~
+  
 - Languages: **Javascript, C++, React, Lua**
 
 
