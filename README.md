@@ -14,13 +14,14 @@ These days it's a bit of this, a bit of that...
 
 *A bit of what???* <details>
   - [React-native](https://github.com/mtc-20/Whack-a-Mole_react)
+  - **Game development** <details>
+    - **GD50 on [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
+    - **Game Development for Modern Platforms on [Coursera](https://www.coursera.org/learn/gamedev-platforms/home/welcome)** </details>
 </details>
 
 
 🌱 I’m currently learning: 
-- **Game development** <details>
-  - **GD50 on [edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)**
-  - **Game Development for Modern Platforms on [Coursera](https://www.coursera.org/learn/gamedev-platforms/home/welcome)**
+- **Introduction to Autonmous driving on Coursera**
 - **Deep Learning** <details>
   - **Convolutional Neural Networks on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)**
   - ~~**Neural Networks from [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)**~~
