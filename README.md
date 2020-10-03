@@ -10,7 +10,12 @@
 **Any tips and suggestions for Tetris are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
 
 
-Not really doing much these, days to be honest...
+These days it's a bit of this, a bit of that...
+
+*A bit of what???* <details>
+  - [React-native](https://github.com/mtc-20/Whack-a-Mole_react)
+</details>
+
 
 🌱 I’m currently learning: 
 - **Game development** <details>
@@ -20,7 +25,7 @@ Not really doing much these, days to be honest...
   - **Convolutional Neural Networks on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)**
   - ~~**Neural Networks from [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)**~~
   
-- Languages: **Javascript, C++, React, Lua**
+- Languages: **Javascript, C++, React, Java**
 
 
 <!--💬 Ask me about **Python, ROS, OpenCV**-->
