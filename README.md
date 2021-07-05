@@ -9,7 +9,7 @@
 
 **Any tips and suggestions for Tetris are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
 
-
+<!--
 These days it's a bit of this, a bit of that...
 
 *A bit of what???* <details>
@@ -28,7 +28,7 @@ These days it's a bit of this, a bit of that...
   
 - Languages: **Javascript, C++, React, Java**
 
-
+-->
 <!--💬 Ask me about **Python, ROS, OpenCV**-->
 
 <!-- 👯 I’m looking to collaborate on
