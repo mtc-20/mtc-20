@@ -40,7 +40,7 @@ These days it's a bit of this, a bit of that...
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mamen-thomas-chembakasseril/"><img align="center" src="https://img.shields.io/badge/-Mamen-informational?style=for-the-badge&logo=linkedin" height=25></a>
+<a href="https://www.linkedin.com/in/mamen-thomas-chembakasseril/"><img src="https://img.shields.io/badge/-Mamen-informational?style=for-the-badge&logo=linkedin" height=25></a>
 <a href="https://github.com/mtc-20"><img src="https://img.shields.io/badge/%20-mtc--20-black?style=for-the-badge&logo=github" height=25></a>
 </p>
 
