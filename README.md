@@ -36,7 +36,7 @@ These days it's a bit of this, a bit of that...
 -  -->
 
 ## Just some Github stats
-[![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&hide=cmake,c&layout=compact)](https://github.com/mtc-20/github-readme-stats)
+[![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true)](https://github.com/mtc-20/github-readme-stats)
 
 
 <p align="center">
