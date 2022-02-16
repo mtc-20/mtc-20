@@ -7,7 +7,6 @@
 <a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FQuiz_App" height=180></a>
 
 
-**Any tips and suggestions for Tetris are welcome, just put them as issue [here](https://github.com/mtc-20/Tetris_js/issues/new).**
 
 <!--
 These days it's a bit of this, a bit of that...
