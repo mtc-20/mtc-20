@@ -36,15 +36,18 @@ These days it's a bit of this, a bit of that...
 -  -->
 
 ## Just some Github stats
-[![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true)](https://github.com/mtc-20/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/mtc-20/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Top Langs on Github"></a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mamen-thomas-chembakasseril/"><img src="https://img.shields.io/badge/-Mamen-informational?style=for-the-badge&logo=linkedin" height=25></a>
-<a href="https://github.com/mtc-20"><img src="https://img.shields.io/badge/%20-mtc--20-black?style=for-the-badge&logo=github" height=25></a>
+
 </p>
 
 <!--
+<a href="https://github.com/mtc-20"><img src="https://img.shields.io/badge/%20-mtc--20-black?style=for-the-badge&logo=github" height=25></a>
 **mtc-20/mtc-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
