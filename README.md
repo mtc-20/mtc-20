@@ -1,11 +1,12 @@
 ## Hello there! 👋
 
 
-**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) or how about some easy [Trivia](https://mtc-20.github.io/Quiz_App/) !**
+**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) or some easy [Trivia](https://mtc-20.github.io/Quiz_App/)? !**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
 <a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FQuiz_App" height=180></a>
 <a href="https://parrot-web-app.herokuapp.com/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fparrot-web-app.herokuapp.com" height=180></a>
+<a href="https://netlify--visionary-granita-18cdc8.netlify.app/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fnetlify--visionary-granita-18cdc8.netlify.app" height=180></a>
 
 
 
