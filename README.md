@@ -1,14 +1,14 @@
 ## Hello there! 👋
 
 
-**Since your're already here, why don't you check out my javascript game [Tetris](https://mtc-20.github.io/Tetris_js/) or some easy [Trivia](https://mtc-20.github.io/Quiz_App/)? !**
+**Showcasing some of my simple web game projects, as I get into web development!**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
 <a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fmtc-20.github.io%2FQuiz_App" height=180></a>
-<a href="https://parrot-web-app.herokuapp.com/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fparrot-web-app.herokuapp.com" height=180></a>
+<a href="https://parrot-web-app.herokuapp.com/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fparrot-web-app.herokuapp.com" height=180></a> <sup>**</sup>
 <a href="https://netlify--visionary-granita-18cdc8.netlify.app/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url=https%3A%2F%2Fnetlify--visionary-granita-18cdc8.netlify.app" height=180></a>
 
-
+** This isn't a game, just a pre-trained object detection model with text-to-speech capabilities.
 
 <!--
 These days it's a bit of this, a bit of that...
