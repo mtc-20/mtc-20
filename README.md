@@ -42,7 +42,7 @@ These days it's a bit of this, a bit of that...
   <a href="https://github.com/mtc-20/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Top Langs on Github"></a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <p align="center">
   <a href="https://github.com/mtc-20/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Github stats"></a>
 </p>
