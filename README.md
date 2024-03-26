@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-
+<!--
 **Showcasing some of my simple web game projects, as I get into web development!**
 
 <a href="https://mtc-20.github.io/Tetris_js/"><img src="https://github.com/mtc-20/Tetris_js/blob/master/images/screenMobile.png" height=180></a>
@@ -10,7 +10,7 @@
 
 ** This isn't a game, just a pre-trained object detection model with text-to-speech capabilities.
 
-<!--
+
 These days it's a bit of this, a bit of that...
 
 *A bit of what???* <details>
@@ -39,12 +39,12 @@ These days it's a bit of this, a bit of that...
 ## Just some Github stats
 
 <p align="center">
-  <a href="https://github.com/mtc-20/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Top Langs on Github"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtc-20&layout=compact&theme=radical&include_all_commits=true&size_weight=0.5&count_weight=0.5" alt="Top Langs on Github">
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/mtc-20/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Github stats"></a>
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=mtc-20&layout=compact&theme=radical&include_all_commits=true" alt="Github stats"></a>
 </p>
 
 <p align="center">
