@@ -1,4 +1,11 @@
 ## Hello there! 👋
+**Showcasing some of the fun tutorials, as I explore into web and game development!**
+
+|Tetris|Trivia|Portfolio as a Game|Hangman|
+|---|---|---|---|
+|<a href="https://mtc-20.github.io/Tetris_js/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=s&url=https%3A%2F%2Fmtc-20.github.io%2FTetris_js" alt="Tetris on vanilla JS" height=100></a>|<a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=s&url=https%3A%2F%2Fmtc-20.github.io%2FQuiz_App" alt="Trivia app on vanilla JS" height=100></a>|<a href="https://mtc-20.github.io/Quiz_App/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=s&url=https%3A%2F%2Fmtc-20.github.io%2Fportfolio_2dgame_kaboomjs" alt="Web portfolio as a 2D game using KaboomJS" height=100></a>|<a href="https://netlify--visionary-granita-18cdc8.netlify.app/"><img src="http://free.pagepeeker.com/v2/thumbs.php?size=s&url=https%3A%2F%2Fnetlify--visionary-granita-18cdc8.netlify.app" height=100></a>|
+
+
 
 <!--
 **Showcasing some of my simple web game projects, as I get into web development!**
